@@ -8,7 +8,7 @@ It is assumed that the user is already authenticated / logged in. The user authe
 
 ## AWS deployment
 
-This project is deployed on AWS using S3 and Cloudfront. Visit [Usermetrics](https://d1jkngw9ifv53q.cloudfront.net/) to see the live version.
+This project is deployed on AWS using S3 and Cloudfront.
 
 ## Getting Started
 
